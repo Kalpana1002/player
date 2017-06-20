@@ -8,6 +8,6 @@ int fact=1;
 int n=Integer.parseInt(args[0]);
 for(int i=1;i<=n;i++)
 fact=fact*i;
-System.out.println(fact);
+System.out.println("The factorial of"+" "+n+" "+"is"+" "+fact);
 }
 }
