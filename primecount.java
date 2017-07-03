@@ -4,7 +4,7 @@ class primecount
 {
 public static void main(String args[])
 {
-  int count=0;
+  int count=0,j;
 Scanner sc=new Scanner(System.in);
 int n=sc.nextInt();
 int m=sc.nextInt();
